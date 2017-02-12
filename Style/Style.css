@@ -1,0 +1,101 @@
+/*div {
+	border: 1px solid green;
+}*/
+
+.wapper {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.project-name {
+	color: #777;
+	font-size: 24px;
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+	font-family: Arial;
+}
+
+.jumbotron {
+	text-align: center;
+	font-family: Arial;
+	font-size: 22px;
+	color: #333333;
+	padding: 10px 12% 20px 12%;
+	margin-bottom: 20px;
+}
+
+.jumbotron button {
+	text-align: center;
+	color: white;
+	font-size: 120%;
+	background: #5CB85C;
+	border: none;
+	border-radius: 5px;
+	padding: 15px 30px;
+}
+
+.subheading h1 {
+	font: #333333;
+	font-family: Arial;
+}
+
+.subheading p {
+	font-family: Arial;
+}
+
+.subheading button {
+
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	background: #337AB7;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 10px;
+}
+
+.content .row .subheading {
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 20px;
+	width: calc(93%/3);
+}
+
+.content .row .subheading h2 {
+	word-break: break-all;
+	font-size: 26px;
+	font-family: Arial;
+}
+
+.navigatiom ul {
+	border-radius: 10px;
+}
+
+.navigation a {
+	text-decoration: none;
+	padding: 15px 65px;
+	font-weight: bold;
+	color: #5f5858;
+	background: #dad6d6;
+	border-right: 1px solid #9c9797;
+}
+
+.navigation li {
+	display: inline;
+}
+
+.navigation li:first-child a {
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px; 
+}
+
+.navigation li:last-child a {
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-width: 0;
+}
+
+.navigation a:hover {
+	box-shadow: inset 0px 0 20px 10px;
+}
